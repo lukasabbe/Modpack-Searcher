@@ -8,7 +8,7 @@ const DEBUG = false; //prints out when found a modpack with the mod
 const NODE_FETCH_OPTIONS = {
     method : 'GET',
     headers: {
-        'User-Agent': 'lukasabbe/Modpack-Searcher/1.0.0'
+        'User-Agent': 'lukasabbe/Modpack-Searcher/1.56.0'
     }
 }
 
