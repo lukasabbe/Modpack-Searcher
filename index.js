@@ -1,6 +1,6 @@
 const fetch = require('node-fetch');
 
-const MC_VERSIONS = ["1.21.1", "1.21.2"] // Versions you want to search for
+const MC_VERSIONS = ["1.21.1", "1.21.2", "1.21.3"] // Versions you want to search for
 const MC_LOADER = 'fabric'; // Loader you want to search for
 const MOD_QUERY = 'P7dR8mSH'; // The project you want to find
 const DEBUG = false; //prints out when found a modpack with the mod
