@@ -1,0 +1,51 @@
+body {
+    background-color: #2e3433;
+    color: #cdd4d0;
+    font-family: "SUSE", serif;
+    font-optical-sizing: auto;
+    font-weight: 10px;
+    font-style: normal;
+}
+
+a {
+  color: rgb(62, 182, 212);
+  padding: 1em 1.5em;
+  text-decoration: none;
+  text-transform: uppercase;  
+}
+
+.welcome, .btndiv, .btntext, #projects_div, .mc_version, .mc_loader, .mod_to_find, .description{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#project_div {
+    text-align: center;   
+}
+#project_div img {
+    width:  100px;
+    height: 100px;
+    object-fit: cover;
+}
+.btn {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    background-color: #0f907a;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+}
+.btn:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.btn:active {
+    background-color: #0f907a;
+    transform: translateY(4px);
+}
+.projects_div {
+    margin: 20px;
+}
