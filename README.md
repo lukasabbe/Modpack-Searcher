@@ -2,6 +2,9 @@
 
 Find all modpacks in Modrinth with the specifc project dependency. Like an mod or resource pack.
 
+You can download the project and run the node script.
+Or you can use the website [find.lukasabbe.com](https://find.lukasabbe.com)
+
 # How to install and use
 
 1. First clone this project. `git clone https://github.com/lukasabbe/Modpack-Searcher.git` or download it as a [zip](https://github.com/lukasabbe/Modpack-Searcher/archive/refs/heads/main.zip) 
